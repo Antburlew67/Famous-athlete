@@ -13,8 +13,15 @@ text-align: center;}
     margin-right: auto;
 }
 body {
-    background-color: #000000;
+    background-color: #CE1141;
 }
-h1{
+h1, h2{
     text-align: center;
+}
+.montserrat {
+    font-family: "Montserrat", sans-serif;
+}
+.hi {
+      font-family: "Bebas Neue", sans-serif;
+
 }
